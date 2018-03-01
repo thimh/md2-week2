@@ -32,7 +32,7 @@ score = score + 3
  score = score + score
  ```
 */
-
+print(score)
 
 
 
